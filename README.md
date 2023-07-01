@@ -1,6 +1,3 @@
-Hi 👋 My name is Berkay Inceisci
-================================
-
 ### Skills
 
 <p align="left">
